@@ -1,0 +1,14 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: ghostwhite;
+    background-color: rgba(0, 0, 0, 0.739);
+}
+a{
+  color: blueviolet;
+}
+
+table{
+    border-color: white;
+    background-color: black;
+    color: white;
+}
