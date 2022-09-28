@@ -2,6 +2,7 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: ghostwhite;
     background-color: rgba(0, 0, 0, 0.739);
+    text-align: center;
 }
 a{
   color: blueviolet;
