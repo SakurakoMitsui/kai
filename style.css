@@ -2,14 +2,12 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: ghostwhite;
     background-color: rgba(0, 0, 0, 0.739);
-    text-align: center;
     border-style: double;
     border-color: ghostwhite;
 }
 a{
   color: rgb(6, 34, 86);
-  background-color: rgb(242, 231, 231);
-  text-align: center;
+  background-color: rgb(255, 255, 255);
   border-style: dotted;
 }
 
@@ -26,4 +24,5 @@ p{
 
 html{
   background-color: azure;
+  text-align: center;
 }
