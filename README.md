@@ -26,3 +26,6 @@
 ![image](https://user-images.githubusercontent.com/112539110/190872463-40fdcd0d-067c-4fe7-a094-2f3320869523.jpg)
 
 ![omatsuiri](https://user-images.githubusercontent.com/112539110/190872884-9c6a667e-08bb-430c-8422-7c14b223323c.JPG)
+
+
+![310994979_400923372242496_7652848945319101144_n](https://user-images.githubusercontent.com/112539110/194763730-a7274c4f-79c0-442d-bb93-44d79e60b2b7.jpg)
